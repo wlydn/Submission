@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SubmissionWali</string>
+    <string name="nama_hp">NamaHP</string>
+    <string name="detail">Detail</string>
+    <string name="list">List View</string>
+    <string name="grid">Grid View</string>
+    <string name="cardview">Card View</string>
+    <string name="aboutme">Tentang Saya</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
